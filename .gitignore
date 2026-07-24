@@ -1,0 +1,9 @@
+node_modules/
+dist/
+
+# Secrets — see .env.example
+.env
+
+# Run output
+logs/
+artifacts/
